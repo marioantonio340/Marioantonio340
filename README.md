@@ -1,5 +1,3 @@
-<br/>
-
 
 <hr>
 <h1 align="center">♘ Hey! Welcome to my profile! How is it going? ♞</h1>
@@ -35,7 +33,7 @@
 <a href="https://www.instagram.com/mario_fernandes340/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="mailto:marioantonio340@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </a>
-    <br><br><br><br>
+    <br><br>
 
 
 
