@@ -19,10 +19,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- ♠︎  &nbsp; Node | ReactJS | React Native | Typescript <br>  
+- ♠︎  &nbsp; Kotlin | Typescript <br>  
 - ♣︎  &nbsp; HTML | CSS | JavaScript 
 - ♥︎  &nbsp; MySQL 
-- ♦︎  &nbsp;Visual Studio code | Git 
+- ♦︎  &nbsp;Android Studio| Visual Studio Code | Git 
 
 <br>
 <h3> 🤝🏻 Connect with Me </h3>
