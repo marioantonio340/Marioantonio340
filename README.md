@@ -20,7 +20,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - ♠︎  &nbsp; Kotlin | Typescript <br>  
-- ♣︎  &nbsp; HTML | CSS | JavaScript 
+- ♣︎  &nbsp; React.js | React-native | HTML | CSS | JavaScript 
 - ♥︎  &nbsp; MySQL 
 - ♦︎  &nbsp;Android Studio| Visual Studio Code | Git 
 
