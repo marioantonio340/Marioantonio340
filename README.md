@@ -1,85 +1,65 @@
+<h1 align="center">Olá, eu sou o Mario 👋</h1>
+<p align="center"><b>Desenvolvedor Full Stack no Grupo Setta</b></p>
 
 <hr>
-<h1 align="center">♘ Hey! Welcome to my profile! How is it going? ♞</h1>
 
-<img align="right" width=300px alt="MarioJackson" src="https://media.tenor.com/images/90d7560237f8d34e7a31e66d5caf8f6c/tenor.gif" />
+<h3>💻 Sobre mim</h3>
 
+- Desenvolvo sistemas internos de ponta a ponta: CRM, portais de BI, integrações com ERP e ferramentas de apoio ao time.
+- Trabalho com o ecossistema Salesforce (Apex, Flows, deploy) e com a migração de processos comerciais para aplicações próprias.
+- Integro sistemas com o ERP TOTVS Protheus e com a plataforma Microsoft (Entra ID, Power BI, SharePoint).
+- Uso IA no dia a dia de desenvolvimento (Claude Code e servidores MCP) para acelerar a entrega, sempre com revisão e testes.
+- Formação em Sistemas de Informação — UNIPAM.
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3>🛠 Tecnologias</h3>
 
-- ✧ &nbsp; I am currently learning full stack development
-- ✥ &nbsp; Exploring new technologies and developing software solutions.
-- 𓀀 &nbsp; Studying information systems at unipam university.
-- ♖ &nbsp;.
-- ✹ &nbsp; Programming enthusiast.
-- ⚁ &nbsp; Anime, games and airsoft as hobbies / side activities.
-- ⚈ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
+**Front-end**<br>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white"/>
+<img src="https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white"/>
 
-<br> 
+**Back-end**<br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white"/>
 
-<h3>🛠 Tech Stack</h3>
+**Bancos de dados**<br>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudflare_D1-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
-- ♠︎  &nbsp; Kotlin | Typescript <br>  
-- ♣︎  &nbsp; React.js | React-native | HTML | CSS | JavaScript 
-- ♥︎  &nbsp; MySQL 
-- ♦︎  &nbsp;Android Studio| Visual Studio Code | Git 
+**Salesforce**<br>
+<img src="https://img.shields.io/badge/Apex-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flows-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>
+<img src="https://img.shields.io/badge/SF_CLI-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>
+<img src="https://img.shields.io/badge/DevOps_Center-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>
 
-<br>
-<h3> 🤝🏻 Connect with Me </h3>
-<br>
+**Integrações**<br>
+<img src="https://img.shields.io/badge/TOTVS_Protheus-363636?style=flat-square"/>
+<img src="https://img.shields.io/badge/Power_BI_Embedded-F2C811?style=flat-square&logoColor=black"/>
+<img src="https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/MCP-000000?style=flat-square"/>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/mariofernandes340/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitee"/></a>
-<a href="https://www.instagram.com/mario_fernandes340/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:marioantonio340@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+**Testes e qualidade**<br>
+<img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square"/>
+<img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white"/>
+
+**Infra e ferramentas**<br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square"/>
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white"/>
+
+<h3>🤝 Contato</h3>
+
+<a href="https://www.linkedin.com/in/mariofernandes340/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-    <br><br>
-
-
-
-
-  
-  <hr>
- 
-
-
-
-<div align="center">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-</div>
-
-<hr>
-
-[comment]: <> (Link pardais ===> https://cultofthepartyparrot.com)
-[comment]: <> (Link redes sociais logos ===> https://github.com/alexandresanlim/Badges4-README.md-Profile)
- 
-
-
-
-
-
-
-
